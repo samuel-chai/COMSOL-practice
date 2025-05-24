@@ -6,8 +6,8 @@
 
 Helmholtz线圈磁场分布模拟，包含线圈几何建模、磁场计算和可视化结果。展示了不同参数下的磁场均匀性分析。
 
-![磁场分布1](Helmholtz_coil_magnetic_field/image1.png) 
-![磁场分布2](Helmholtz_coil_magnetic_field/image2.png)
+![磁场分布1](1_Helmholtz_coil_magnetic_field/image1.png) 
+![磁场分布2](1_Helmholtz_coil_magnetic_field/image2.png)
 
 ## 2. 弹簧扣分析
 
