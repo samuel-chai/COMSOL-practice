@@ -1,0 +1,4 @@
+u_water 0.1[m/s] "入口速度, 水"
+u_air 1[m/s] "入口速度, 空氣"
+T_water 80[degC] "入口溫度, 水"
+T_air 5[degC] "入口溫度, 空氣"

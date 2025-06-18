@@ -1,0 +1,23 @@
+CB_w 150[mm] 电路板宽度
+CB_l 150[mm] 电路板长度
+CB_t 3[mm] 电路板厚度
+IC1_w 50[mm] IC 1 宽度
+IC1_l 50[mm] IC 1 长度
+IC1_t 3[mm] IC 1 厚度
+IC2_w 15[mm] IC 2 宽度
+IC2_l 20[mm] IC 2 长度
+IC2_t 3[mm] IC 2 厚度
+IC3_w 15[mm] IC 3 宽度
+IC3_l 40[mm] IC 3 长度
+IC3_t 3[mm] IC2 3 厚度
+P1 20[W] IC 1 耗散的功率
+P2 1[W] IC 2 耗散的功率
+P3 2[W] IC 3 耗散的功率
+htc 20[W/(m^2*K)] 传热系数
+T0 273.15[K] 气流温度
+e_fins 0.3[mm] 翅片厚度
+i_radius 5[mm] 内半径
+o_radius 25[mm] 外半径
+air_sp 3[mm] 散热器翅片之间的空气间距
+n_fins 10 翅片数
+t_h air_sp*n_fins 散热器管高度
